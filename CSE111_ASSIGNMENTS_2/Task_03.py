@@ -1,4 +1,4 @@
-# Solution to Task 4
+# Solution to Task 3
 
 class Joker:
     def __init__(self, name, power, is_he_psycho):
