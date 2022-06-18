@@ -2,7 +2,10 @@
 
 class Player:
     def __init__(self):
-        pass
+        self.name = "New player"
+        self.jersy_number = 0 
+        self.position = "None"
+        
 
 
 if __name__ == "__main__":
